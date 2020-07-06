@@ -2,7 +2,7 @@
 Automate pool skimming
 
 ## Why?
-Pools are fun, but they're so much work. Why not automate some of that work?  
+Pools are fun, but they're so much work to keep clean and sparkling. Why not automate some of that work?  
 
 I have a robot that cleans the bottom of my pool, why not have one that cleans the top? 
 
