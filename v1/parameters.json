@@ -1,0 +1,16 @@
+{
+    "frequency": 27.15,
+    "synchronization_burst_us": 1500,
+    "synchronization_spacing_us": 500,
+    "total_synchronizations": 4,
+    "signal_burst_us": 500,
+    "signal_spacing_us": 500,
+    "forward": 52,
+    "forward_left": 27,
+    "forward_right": 40,
+    "left": 28,
+    "right": 46,
+    "reverse": 34,
+    "reverse_left": 51,
+    "reverse_right": 45
+}
